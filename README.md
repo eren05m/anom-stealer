@@ -107,24 +107,23 @@ If you want to support me and my project, you can do the following, **thank you*
 
 ## Screenshots
 
-<img width="500" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262">
+<img width="450" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262">
 
 <br>
 
-<img width="500" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270">
+<img width="450" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270">
 
 <br>
 
-<img width="500" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75">
+<img width="450" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75">
 
 <br>
 
-<img width="500" src="https://github.com/user-attachments/assets/a4e7850e-21a3-4280-a267-36da696f00c7">
+<img width="450" src="https://github.com/user-attachments/assets/a4e7850e-21a3-4280-a267-36da696f00c7">
 
 <br>
 
-<img width="500" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad">
-
+<img width="450" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad">
 
 ## 🛑 Note
 I am not responsible in any way for any damage that may be caused by this program, it is shared for educational purposes only.
