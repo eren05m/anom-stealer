@@ -90,11 +90,11 @@ Anom Written in NodeJS, bypassing all anti viruses during runtime and scantime, 
 
 
 ## Installation
-You are need NodeJS16 for this project [Download NodeJS](https://nodejs.org/en/blog/release/v16.16.0)
+You will need NodeJS16 for this project [Download NodeJS](https://nodejs.org/en/blog/release/v16.16.0)
 
-And you are need also Python for this project [Download Python](https://www.python.org/downloads/)
+And you will also need Python for this project [Download Python](https://www.python.org/downloads/)
 
-Anddd you are need C++/Visual Studio/Visual Studio Build Tools
+And you will need C++/Visual Studio/Visual Studio Build Tools
 
 <!-- GETTING STARTED -->
 ## Getting Started
