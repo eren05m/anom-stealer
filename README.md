@@ -107,15 +107,25 @@ If you want to support me and my project, you can do the following, **thank you*
 
 ## Screenshots
 
-<img width="395" height="196" alt="Screenshot 2026-10-09 010253" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262" />
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262">
+</p>
 
-<img width="425" height="368" alt="Screenshot 2026-10-09 005858" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270" />
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270">
+</p>
 
-<img width="317" height="215" alt="Screenshot 2026-10-09 005844" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75" />
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75">
+</p>
 
-<img width="437" height="318" alt="Screenshot 2026-10-09 005737" src="https://github.com/user-attachments/assets/4cd98f8-1d96-49a9-ad4e-7603709d226c" />
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/4cd98f8-1d96-49a9-ad4e-7603709d226c">
+</p>
 
-<img width="419" height="317" alt="Screenshot 2026-10-09 005710" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad" />
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad">
+</p>
 
 
 ## 🛑 Note
