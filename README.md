@@ -120,7 +120,7 @@ If you want to support me and my project, you can do the following, **thank you*
 </p>
 
 <p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/4cd98f8-1d96-49a9-ad4e-7603709d226c">
+  <img width="500" src="https://github.com/user-attachments/assets/a4e7850e-21a3-4280-a267-36da696f00c7">
 </p>
 
 <p align="center">
