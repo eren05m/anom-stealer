@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <kbd>
-  <a href="https://github.com/saintdaddy/anom-Stealer">
+  <a href="https://github.com/eren05m/anom-stealer">
     <img src="https://media.discordapp.net/attachments/1096469835489235079/1096626377035370627/Comp_1_00001sss.png?width=558&height=558" alt="Logo" width="250" height="250">
     </kbd>
   </a>
@@ -16,11 +16,11 @@
     <a href="https://t.me/anom05"><strong>Telegram Channel</strong></a>
     <br />
     <br />
-    <a href="https://github.com/saintdaddy/Anom-Stealer/issues">Report Bug</a>
+    <a href="https://github.com/eren05m/anom-stealer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/saintdaddy/Anom-Stealer/issues">Request Feature</a>
+    <a href="https://github.com/eren05m/anom-stealer/issues">Request Feature</a>
     ·
-    <a href="https://github.com/saintdaddy/Anom-Stealer/pulls">Send a Pull Request</a>
+    <a href="https://github.com/eren05m/anom-stealer/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -34,7 +34,7 @@ Anom Written in NodeJS, bypassing all anti viruses during runtime and scantime, 
 
 ## Features
 ```batch
-┌──(Saint@root)-[~/]
+┌──(Anom@root)-[~/]
 └─$ cat AnomStuffs
 
 @BrowserStuffs
