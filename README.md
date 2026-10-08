@@ -1,13 +1,3 @@
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <kbd>
-  <a href="https://github.com/eren05m/anom-stealer">
-    <img src="https://media.discordapp.net/attachments/1096469835489235079/1096626377035370627/Comp_1_00001sss.png?width=558&height=558" alt="Logo" width="250" height="250">
-    </kbd>
-  </a>
-
   <h3 align="center">Anom Stealer</h3>
 
   <p align="center">
