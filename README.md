@@ -20,7 +20,7 @@
 
 Anom Written in NodeJS, bypassing all anti viruses during runtime and scantime, Fully Undetectable Discord, Roblox, Browser Stealer. If you want to check out the stealer's look, keep scrolling down.
 
-> :star: 57 Stars = Gmail Cookie Checker
+> :star: 50 Stars = New Project Release
 
 ## Features
 ```batch
@@ -93,7 +93,8 @@ Replace your webhook in `Anom.js` then
 
 Open the `Anom.bat` for simply menu
 
-![image](https://user-images.githubusercontent.com/111476645/231452411-4648b116-72e9-41dc-8f9c-54000b269593.png)
+![image](<img width="1103" height="575" alt="Screenshot 2026-10-09 005955" src="https://github.com/user-attachments/assets/7526d061-69a8-4dd2-a345-889ebeff1499" /><img width="395" height="196" alt="Screenshot 2026-10-09 010253" src="https://github.com/user-attachments/assets/221c749d-bb34-4c40-81be-176206ddf85f" />
+)
 
 
 <!-- CONTRIBUTING -->
@@ -106,15 +107,15 @@ If you want to support me and my project, you can do the following, **thank you*
 3. Open a Pull Request
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/111476645/231453417-aadae0fd-f566-4427-b388-fee32ea8a794.png" width="500">
+<img src="<img width="395" height="196" alt="Screenshot 2026-10-09 010253" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262" />" width="500">
 
-<img src="https://user-images.githubusercontent.com/111476645/231453449-f503d5c2-7c44-44f1-be26-c044e31228ab.png" width="500">
+<img src="<img width="425" height="368" alt="Screenshot 2026-10-09 005858" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270" />" width="500">
 
-<img src="https://user-images.githubusercontent.com/111476645/231453472-9fef9e90-24f9-441e-9da0-9516411c3b8d.png" width="500">
+<img src="<img width="317" height="215" alt="Screenshot 2026-10-09 005844" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75" />" width="500">
 
-<img src="https://user-images.githubusercontent.com/111476645/231453485-e9204edf-5979-4730-88f8-f880e00b6d30.png" width="500">
+<img src="<img width="437" height="318" alt="Screenshot 2026-10-09 005737" src="https://github.com/user-attachments/assets/4cd9a8f8-1d96-49a9-ab4e-7603709d226c" />" width="500">
 
-<img src="https://user-images.githubusercontent.com/111476645/232208596-2ab1d4d3-1a12-43a2-8aaf-dccd0edf3347.png" width="500">
+<img src="<img width="419" height="317" alt="Screenshot 2026-10-09 005710" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad" />" width="500">
 
 
 ## 🛑 Note
