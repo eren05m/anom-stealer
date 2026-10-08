@@ -93,7 +93,7 @@ Replace your webhook in `Anom.js` then
 
 Open the `Anom.bat` for simply menu
 
-![image](<img width="1103" height="575" alt="Screenshot 2026-10-09 005955" src="https://github.com/user-attachments/assets/7526d061-69a8-4dd2-a345-889ebeff1499"/>)
+![image](<img width="1103" height="575" alt="Screenshot 2026-10-09 005955" src="https://github.com/user-attachments/assets/2e0b9e2f-41fe-460b-9964-1561347027c0" />)
 
 
 <!-- CONTRIBUTING -->
