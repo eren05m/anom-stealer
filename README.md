@@ -93,7 +93,7 @@ Replace your webhook in `Anom.js` then
 
 Open the `Anom.bat` for simply menu
 
-![image](<img width="1103" height="575" alt="Screenshot 2026-10-09 005955" src="https://github.com/user-attachments/assets/2e0b9e2f-41fe-460b-9964-1561347027c0" />)
+<img width="1103" height="575" alt="Screenshot" src="https://github.com/user-attachments/assets/2e0b9e2f-41fe-460b-9964-1561347027c0" />
 
 
 <!-- CONTRIBUTING -->
@@ -106,15 +106,16 @@ If you want to support me and my project, you can do the following, **thank you*
 3. Open a Pull Request
 
 ## Screenshots
-<img src="<img width="395" height="196" alt="Screenshot 2026-10-09 010253" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262" />" width="500">
 
-<img src="<img width="425" height="368" alt="Screenshot 2026-10-09 005858" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270" />" width="500">
+<img width="395" height="196" alt="Screenshot 2026-10-09 010253" src="https://github.com/user-attachments/assets/103e477e-b921-4cc7-a70d-69d19711d262" />
 
-<img src="<img width="317" height="215" alt="Screenshot 2026-10-09 005844" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75" />" width="500">
+<img width="425" height="368" alt="Screenshot 2026-10-09 005858" src="https://github.com/user-attachments/assets/17e2397c-87e5-4110-875d-146c9b7bd270" />
 
-<img src="<img width="437" height="318" alt="Screenshot 2026-10-09 005737" src="https://github.com/user-attachments/assets/4cd9a8f8-1d96-49a9-ab4e-7603709d226c" />" width="500">
+<img width="317" height="215" alt="Screenshot 2026-10-09 005844" src="https://github.com/user-attachments/assets/0ebd98f1-e23e-4d04-baa2-fb19c27a2c75" />
 
-<img src="<img width="419" height="317" alt="Screenshot 2026-10-09 005710" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad" />" width="500">
+<img width="437" height="318" alt="Screenshot 2026-10-09 005737" src="https://github.com/user-attachments/assets/4cd98f8-1d96-49a9-ad4e-7603709d226c" />
+
+<img width="419" height="317" alt="Screenshot 2026-10-09 005710" src="https://github.com/user-attachments/assets/67c3ea93-c3a2-4f60-9ca0-2737ef9d79ad" />
 
 
 ## 🛑 Note
